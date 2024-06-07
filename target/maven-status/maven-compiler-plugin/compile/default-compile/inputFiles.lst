@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 C:\Users\jmuni\OneDrive\Documents\DS\TallerSOLID\src\main\java\ec\edu\espol\Main.java
+=======
+/Users/isabella/OneDrive/ESPOL/PAOI - 2024/Diseño de Software/TallerSOLID/src/main/java/ec/edu/espol/SeccionB/Bueno/Receipt.java
+/Users/isabella/OneDrive/ESPOL/PAOI - 2024/Diseño de Software/TallerSOLID/src/main/java/ec/edu/espol/SeccionB/Bueno/PhysicalProduct.java
+/Users/isabella/OneDrive/ESPOL/PAOI - 2024/Diseño de Software/TallerSOLID/src/main/java/ec/edu/espol/SeccionB/Bueno/DigitalProduct.java
+/Users/isabella/OneDrive/ESPOL/PAOI - 2024/Diseño de Software/TallerSOLID/src/main/java/ec/edu/espol/SeccionB/Malo/Product.java
+/Users/isabella/OneDrive/ESPOL/PAOI - 2024/Diseño de Software/TallerSOLID/src/main/java/ec/edu/espol/Main.java
+/Users/isabella/OneDrive/ESPOL/PAOI - 2024/Diseño de Software/TallerSOLID/src/main/java/ec/edu/espol/SeccionB/Malo/DigitalProduct.java
+/Users/isabella/OneDrive/ESPOL/PAOI - 2024/Diseño de Software/TallerSOLID/src/main/java/ec/edu/espol/SeccionB/Malo/ShoppingCart.java
+/Users/isabella/OneDrive/ESPOL/PAOI - 2024/Diseño de Software/TallerSOLID/src/main/java/ec/edu/espol/SeccionB/Bueno/IvaCalculator.java
+/Users/isabella/OneDrive/ESPOL/PAOI - 2024/Diseño de Software/TallerSOLID/src/main/java/ec/edu/espol/SeccionB/Bueno/ShoppingCart.java
+/Users/isabella/OneDrive/ESPOL/PAOI - 2024/Diseño de Software/TallerSOLID/src/main/java/ec/edu/espol/SeccionB/Bueno/Product.java
+/Users/isabella/OneDrive/ESPOL/PAOI - 2024/Diseño de Software/TallerSOLID/src/main/java/ec/edu/espol/SeccionB/Malo/IvaCalculator.java
+>>>>>>> 0c77c0ff5bffd27e91dfd6e46e03588176626a95
